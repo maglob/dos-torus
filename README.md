@@ -1,4 +1,4 @@
 dos-torus
 =========
 
-Demo of 3D software renderer
+Old DOS demo of software 3D renderer (with spinning torus) written in x86 assembler, back in the days.
